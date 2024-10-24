@@ -6,6 +6,6 @@
   "author": "Jonathan Ward <jonathan.ward76@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
